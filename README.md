@@ -51,4 +51,14 @@ Once the tool is running, simply enter any Counter-Strike 1.6, Half-Life 1, or X
 
 > ℹ️ **Note:** If you don't enter a port, the tool will automatically default to `27015`.
 
+## 🗑️ Delete The Tool From Ur Device 
+
+```
+cd ~
+```
+```
+rm -f Game-Server-Checker
+```
+
+
 The tool will immediately query the server and display live details such as current map, player counts, ping, and server name!
