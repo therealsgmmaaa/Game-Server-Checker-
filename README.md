@@ -1,7 +1,7 @@
 # GoldSrc CS-1.6 / Xash3D Server Info Detector Using UDP-Server-Query By TheRealsGMMa
 
 <p align="center">
-  <img src="https://h.top4top.io/p_3937p3wi20.jpg" alt="GoldSrc Server Query" width="750">
+  <img src="https://i.top4top.io/p_3937rvecg0.jpg" alt="GoldSrc Server Query" width="750">
 </p>
 
 
