@@ -38,7 +38,8 @@ Choose one of the following methods to install and run the tool on your system:
 Run this one-line command in **Termux** to create the project folder, install python/curl, download the latest standalone release script directly, and run it automatically:
 
 ```bash
-cd ~ && mkdir Game-Server-Checker && cd Game-Server-Checker && pkg update && pkg upgrade -y && pkg install python curl -y && curl -O -L https://github.com/therealsgmmaaa/Game-Server-Checker-/releases/download/main/Game-Server-Checker.py && python Game-Server-Checker.py
+cd ~ && mkdir Game-Server-Checker && cd Game-Server-Checker && pkg update && pkg upgrade -y && pkg install python curl -y && curl -O -L https://github.com/therealsgmmaaa/Game-Server-Checker-/releases/download/main/Game-Server-Checker.py && python Game-Server-Checker.py`
+```
 
 ## 🎮 How To Use After Installation
 
