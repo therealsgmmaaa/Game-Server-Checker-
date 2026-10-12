@@ -1,8 +1,20 @@
 # GoldSrc-CS-1.6-UDP-Server-Query
 
 
-## 🚀 Features
+## 🚀 Key Features
 
-- **Detect Server Info Free**: Instantly query server details without needing to join the server.
-- **No Discord Bots Required**: Get real-time stats without adding heavy tracking bots to your server.
-- **No Friend Check Needed**: No need to ask your friends to check if the server is up or who is playing.
+* ⚡ **Instant & Lightweight Query**: Fetch accurate, real-time server stats instantly using direct UDP `A2S_INFO` queries without joining or downloading map assets.
+
+* 🛡️ **Zero External Dependencies**: No need for complex setup, external API keys, or heavy Discord tracking bots.
+
+* 🎮 **Multi-Engine Support**: Full compatibility with **Counter-Strike 1.6**, **Half-Life 1**, and custom **Xash3D FWGS** server instances (Protocol 49).
+
+* 🔍 **Deep Server Insights**: Instantly reveals server hostname, colored tags, current map, active players count, protocol version, and real ISP ping.
+
+* 📱 **Termux & Mobile Friendly**: Optimized to run seamlessly on Android via Termux, Linux CLI, and low-spec environments.
+
+* 🤝 **Solo Friendly**: Check if your favorite server is alive and populated without asking friends or joining empty games.
+
+---
+
+⭐ **If you find this tool helpful, please consider giving this repository a Star!**
