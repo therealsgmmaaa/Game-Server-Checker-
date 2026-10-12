@@ -27,13 +27,14 @@
 
 Choose one of the following methods to install and run the tool on your system:
 
-### Option 1: Direct Release Install via Termux (Recommended)
+### Option 1: Direct Release From GitHub Relases
 <p align="left">
   <a href="https://github.com/therealsgmmaaa/Game-Server-Checker-/releases">
     <img src="https://img.shields.io/badge/GitHub-Releases_%26_Downloads_Page-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Releases Page">
   </a>
 </p>
 
+### Option 2: Direct Release Install via Termux (Recommended)
 Run this one-line command in **Termux** to create the project folder, install python/curl, download the latest standalone release script directly, and run it automatically:
 
 ```bash
