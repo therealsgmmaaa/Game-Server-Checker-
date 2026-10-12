@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector/releases"><img src="https://img.shields.io/github/v/release/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector?style=for-the-badge&color=brightgreen&label=Latest%20Release" alt="Latest Release"></a>
-  <a href="https://github.com/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector/releases"><img src="https://img.shields.io/github/downloads/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector/total?style=for-the-badge&color=blue&label=Total%20Downloads" alt="Total Downloads"></a>
-  <img src="https://img.shields.io/github/stars/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector?style=for-the-badge&color=yellow" alt="GitHub Stars">
+  <a href="https://github.com/therealsgmmaaa/Game-Server-Checker-/releases"><img src="https://img.shields.io/github/v/release/therealsgmmaaa/Game-Server-Checker-?style=for-the-badge&color=brightgreen&label=Latest%20Release" alt="Latest Release"></a>
+  <a href="https://github.com/therealsgmmaaa/Game-Server-Checker-/releases"><img src="https://img.shields.io/github/downloads/therealsgmmaaa/Game-Server-Checker-/total?style=for-the-badge&color=blue&label=Total%20Downloads" alt="Total Downloads"></a>
+  <img src="https://img.shields.io/github/stars/therealsgmmaaa/Game-Server-Checker-?style=for-the-badge&color=yellow" alt="GitHub Stars">
 </p>
 
 ---
@@ -28,11 +28,11 @@
 يمكنك تحميل الأداة وتثبيتها مباشرة عبر خيارين:
 
 ### Option 1: Quick Install via Termux (Recommended)
-شغّل الأمر التالي داخل **Termux** لتثبيت الأداة والبدء في استخدامها مباشرة:
+شغّل الأوامر التالية داخل **Termux** لتثبيت الأداة والبدء في استخدامها مباشرة:
 
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone [https://github.com/therealsgmmaaa/Game-Server-Checker-/releases/tag/Downlaods.git](https://github.com/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector.git)
-cd GoldSrc-CS-1.6-Server-Info-Detector
+git clone [https://github.com/therealsgmmaaa/Game-Server-Checker-.git](https://github.com/therealsgmmaaa/Game-Server-Checker-.git)
+cd Game-Server-Checker-
 python Game-Server-Checker.py
