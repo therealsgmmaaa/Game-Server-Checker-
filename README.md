@@ -1,4 +1,8 @@
-# GoldSrc-CS-1.6-UDP-Server-Query
+# GoldSrc CS-1.6 / Xash3D Server Info Detector Using UDP-Server-Query By TheRealsGMMa
+
+<p align="center">
+  <img src="https://h.top4top.io/p_3937p3wi20.jpg" alt="GoldSrc Server Query" width="750">
+</p>
 
 
 ## 🚀 Key Features
@@ -18,8 +22,3 @@
 ---
 
 ⭐ **If you find this tool helpful, please consider giving this repository a Star!**
-
-
-<p align="center">
-  <img src="https://h.top4top.io/p_3937p3wi20.jpg" alt="GoldSrc Server Query" width="750">
-</p>
