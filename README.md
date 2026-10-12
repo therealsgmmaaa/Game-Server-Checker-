@@ -25,10 +25,10 @@
 
 ## 📥 Downloads & Releases
 
-يمكنك تحميل الأداة وتثبيتها مباشرة عبر خيارين:
+You can download and install the tool directly using the following options:
 
-### Option 1: Quick Install via Termux (Recommended)
-شغّل الأوامر التالية داخل **Termux** لتثبيت الأداة والبدء في استخدامها مباشرة:
+### Option 1: One-Line Quick Install via Termux (Recommended)
+Run the following command inside **Termux** to create the folder, update dependencies, download, and execute the tool automatically:
 
 ```bash
-cd ~ && mkdir Game-Server-Checker && cd Game-Server-Checker && pkg update && pkg upgrade -y && pkg install python curl -y && curl -O -L https://github.com/therealsgmmaaa/Game-Server-Checker-/releases/download/main/Game-Server-Checker.py && python Game-Server-Checker.py
+cd ~ && mkdir Game-Server-Checker && cd Game-Server-Checker && pkg update && pkg upgrade -y && pkg install python curl -y && curl -O -L [https://github.com/therealsgmmaaa/Game-Server-Checker-/releases/download/main/Game-Server-Checker.py](https://github.com/therealsgmmaaa/Game-Server-Checker-/releases/download/main/Game-Server-Checker.py) && python Game-Server-Checker.py
