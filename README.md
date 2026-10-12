@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
   ## Tool Builded For 
-  <img src="https://img.shields.io/badge/Game-CS%201.6%20%2F%20GoldSrc-orange?style=for-the-badge&logo=valve&logoColor=white" alt="CS 1.6">
+  <img src="https://img.shields.io/badge/Game-CS%201.6%20%2F%20Xash3D-orange?style=for-the-badge&logo=valve&logoColor=white" alt="CS 1.6">
 
 
 ### Coming Soon
