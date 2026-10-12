@@ -16,9 +16,18 @@
 * 🔍 **Deep Server Insights**: Instantly reveals server hostname, colored tags, current map, active players count, protocol version, and real ISP ping.
 
 * 📱 **Termux & Mobile Friendly**: Optimized to run seamlessly on Android via Termux, Linux CLI, and low-spec environments.
+* 
 
 * 🤝 **Solo Friendly**: Check if your favorite server is alive and populated without asking friends or joining empty games.
 
 ---
 
+
+## 🏷️ Tags ( Ignore it ) 
+`cs16` `counter-strike` `goldsrc` `half-life` `xash3d` `hlds` `a2s-info` `udp-query` `termux` `server-status` `game-server`
+
+
+
 ⭐ **If you find this tool helpful, please consider giving this repository a Star!**
+
+
