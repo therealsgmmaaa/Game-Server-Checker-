@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://github.com/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector/releases"><img src="https://img.shields.io/github/v/release/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector?style=for-the-badge&color=brightgreen&label=Latest%20Release" alt="Latest Release"></a>
   <a href="https://github.com/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector/releases"><img src="https://img.shields.io/github/downloads/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector/total?style=for-the-badge&color=blue&label=Total%20Downloads" alt="Total Downloads"></a>
+  <img src="https://img.shields.io/github/stars/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector?style=for-the-badge&color=yellow" alt="GitHub Stars">
 </p>
 
 ---
@@ -24,6 +25,7 @@
 
 ## 📥 Downloads & Releases
 
+يمكنك تحميل الأداة وتثبيتها مباشرة عبر خيارين:
 
 ### Option 1: Quick Install via Termux (Recommended)
 شغّل الأمر التالي داخل **Termux** لتثبيت الأداة والبدء في استخدامها مباشرة:
