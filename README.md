@@ -23,12 +23,11 @@
 ---
 
 
-## 🏷️ Tags ( Ignore it ) 
-`cs16` `counter-strike` `goldsrc` `half-life` `xash3d` `hlds` `a2s-info` `udp-query` `termux` `server-status` `game-server`
-
 
 
 ## Support The Project 
-⭐ **If you find this tool helpful, please consider giving this repository a Star!**
+⭐ **If you find this tool helpful, please consider giving this repository a Star , i really work hard on it !**
 
 
+## 🏷️ Tags ( Ignore it ) 
+`cs16` `counter-strike` `goldsrc` `half-life` `xash3d` `hlds` `a2s-info` `udp-query` `termux` `server-status` `game-server`
