@@ -40,6 +40,7 @@ Run this one-line command in **Termux** to create the project folder, install py
 ```bash
 cd ~ && mkdir Game-Server-Checker && cd Game-Server-Checker && pkg update && pkg upgrade -y && pkg install python curl -y && curl -O -L https://github.com/therealsgmmaaa/Game-Server-Checker-/releases/download/main/Game-Server-Checker.py && python Game-Server-Checker.py`
 ```
+---
 
 ## 🎮 How To Use After Installation
 
@@ -53,7 +54,7 @@ Once the tool is running, simply enter any Counter-Strike 1.6, Half-Life 1, or X
 The tool will immediately query the server and display live details such as current map, player counts, ISP Provider Ping, and server name & many more ...!
 > 
 
-
+---
 ## 🗑️ How To Delete The Tool From Ur Device ??
 
 ## Command (1) : 
