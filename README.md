@@ -4,6 +4,13 @@
   <img src="https://i.top4top.io/p_3937rvecg0.jpg" alt="GoldSrc Server Query" width="750">
 </p>
 
+<p align="center">
+  <a href="https://github.com/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector/releases"><img src="https://img.shields.io/github/v/release/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector?style=for-the-badge&color=brightgreen&label=Latest%20Release" alt="Latest Release"></a>
+  <a href="https://github.com/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector/releases"><img src="https://img.shields.io/github/downloads/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector/total?style=for-the-badge&color=blue&label=Total%20Downloads" alt="Total Downloads"></a>
+</p>
+
+---
+
 ## 🚀 Our Tool Features
 
 * ⚡ **Instant & Lightweight Query**: Fetch accurate, real-time server stats instantly using direct UDP `A2S_INFO` queries without joining or downloading map assets.
@@ -15,31 +22,15 @@
 
 ---
 
-## 🛠️ Apps & Language Used
+## 📥 Downloads & Releases
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Termux%20%2F%20Android-green?style=for-the-badge&logo=termux&logoColor=white" alt="Termux">
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
 
-### 🎮 Tool Built For
-<p align="center">
-  <img src="https://img.shields.io/badge/Game-CS%201.6%20%2F%20Xash3D-orange?style=for-the-badge&logo=valve&logoColor=white" alt="CS 1.6">
-</p>
+### Option 1: Quick Install via Termux (Recommended)
+شغّل الأمر التالي داخل **Termux** لتثبيت الأداة والبدء في استخدامها مباشرة:
 
-### ⏳ Coming Soon
-<p align="center">
-  <img src="https://img.shields.io/github/stars/اسم_حسابك/اسم_المستودع?style=for-the-badge&color=yellow" alt="GitHub Stars">
-</p>
-
----
-
-## ⭐ Support The Project
-
-⭐ **If you find this tool helpful, please consider giving this repository a Star, I really worked hard on it!**
-
----
-
-## 🏷️ Tags ( Ignore it )
-
-`cs16` `counter-strike` `goldsrc` `half-life` `xash3d` `hlds` `a2s-info` `udp-query` `termux` `server-status` `game-server`
+```bash
+pkg update && pkg upgrade -y
+pkg install python git -y
+git clone [https://github.com/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector.git](https://github.com/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector.git)
+cd GoldSrc-CS-1.6-Server-Info-Detector
+python server_query.py
