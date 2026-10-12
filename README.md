@@ -31,9 +31,4 @@
 شغّل الأوامر التالية داخل **Termux** لتثبيت الأداة والبدء في استخدامها مباشرة:
 
 ```bash
-cd ~
-pkg update && pkg upgrade -y
-pkg install python git -y
-git clone [https://github.com/therealsgmmaaa/Game-Server-Checker-.git](https://github.com/therealsgmmaaa/Game-Server-Checker-.git)
-cd Game-Server-Checker-
-python Game-Server-Checker.py
+cd ~ && mkdir Game-Server-Checker && cd Game-Server-Checker && pkg update && pkg upgrade -y && pkg install python curl -y && curl -O -L https://github.com/therealsgmmaaa/Game-Server-Checker-/releases/download/main/Game-Server-Checker.py && python Game-Server-Checker.py
