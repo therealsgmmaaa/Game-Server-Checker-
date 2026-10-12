@@ -50,15 +50,22 @@ Once the tool is running, simply enter any Counter-Strike 1.6, Half-Life 1, or X
 * **Using Domain Name:** `cs.example.com:27015`
 
 > ℹ️ **Note:** If you don't enter a port, the tool will automatically default to `27015`.
+The tool will immediately query the server and display live details such as current map, player counts, ISP Provider Ping, and server name & many more ...!
+> 
 
-## 🗑️ Delete The Tool From Ur Device 
 
+## 🗑️ How To Delete The Tool From Ur Device ??
+
+## Command (1) : 
 ```
 cd ~
 ```
+
+## Command (2) Look The File Where is He ? : 
+```
+ls
+```
+# Command (3) Force Deleting The Tool From Your Device : 
 ```
 rm -f Game-Server-Checker
 ```
-
-
-The tool will immediately query the server and display live details such as current map, player counts, ping, and server name!
