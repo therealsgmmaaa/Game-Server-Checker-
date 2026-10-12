@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/therealsgmmaaa/Game-Server-Checker-/releases">
-    <img src="https://img.shields.io/badge/GitHub-Releases_Page-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Releases Page">
+    <img src="https://img.shields.io/badge/GitHub-Releases_%26_Downloads_Page-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Releases Page">
   </a>
 </p>
 
