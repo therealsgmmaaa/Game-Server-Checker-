@@ -4,7 +4,7 @@
   <img src="https://i.top4top.io/p_3937rvecg0.jpg" alt="GoldSrc Server Query" width="750">
 </p>
 
-## 🚀 Key Features
+## 🚀 Our Tool Features
 
 * ⚡ **Instant & Lightweight Query**: Fetch accurate, real-time server stats instantly using direct UDP `A2S_INFO` queries without joining or downloading map assets.
 * 🛡️ **Zero External Dependencies**: No need for complex setup, external API keys, or heavy Discord tracking bots.
