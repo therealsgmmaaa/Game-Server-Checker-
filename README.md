@@ -25,7 +25,7 @@
 ## Apps & Language Used 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Termux%20%2F%20Termux-green?style=for-the-badge&logo=termux&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/Platform-Termux%20%2F%20green?style=for-the-badge&logo=termux&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
   ## Tool Builded For 
