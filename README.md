@@ -25,16 +25,16 @@
 
 ## 📥 Downloads & Releases
 
-<p align="center">
+Choose one of the following methods to install and run the tool on your system:
+
+### Option 1: Direct Release Install via Termux (Recommended)
+<p align="left">
   <a href="https://github.com/therealsgmmaaa/Game-Server-Checker-/releases">
     <img src="https://img.shields.io/badge/GitHub-Releases_%26_Downloads_Page-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Releases Page">
   </a>
 </p>
 
-You can download and install the tool directly using the following options:
-
-### Option 1: One-Line Quick Install via Termux (Recommended)
-Run the following command inside **Termux** to create the folder, update dependencies, download, and execute the tool automatically:
+Run this one-line command in **Termux** to create the project folder, install python/curl, download the latest standalone release script directly, and run it automatically:
 
 ```bash
 cd ~ && mkdir Game-Server-Checker && cd Game-Server-Checker && pkg update && pkg upgrade -y && pkg install python curl -y && curl -O -L [https://github.com/therealsgmmaaa/Game-Server-Checker-/releases/download/main/Game-Server-Checker.py](https://github.com/therealsgmmaaa/Game-Server-Checker-/releases/download/main/Game-Server-Checker.py) && python Game-Server-Checker.py
