@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/therealsgmmaaa/Game-Server-Checker-/releases"><img src="https://img.shields.io/github/v/release/therealsgmmaaa/Game-Server-Checker-?style=for-the-badge&color=brightgreen&label=Latest%20Release" alt="Latest Release"></a>
-  <a href="https://github.com/therealsgmmaaa/Game-Server-Checker-/releases"><img src="https://img.shields.io/github/downloads/therealsgmmaaa/Game-Server-Checker-/total?style=for-the-badge&color=blue&label=Total%20Downloads" alt="Total Downloads"></a>
-  <img src="https://img.shields.io/github/stars/therealsgmmaaa/Game-Server-Checker-?style=for-the-badge&color=yellow" alt="GitHub Stars">
+  <a href="https://github.com/therealsgmmaaa/Game-Server-Checker-/releases"><img src="https://img.shields.io/github/v/release/therealsgmmaaa/Game-Server-Checker-?style=for-the-badge&color=brightgreen&logo=github&label=Latest%20Release" alt="Latest Release"></a>
+  <a href="https://github.com/therealsgmmaaa/Game-Server-Checker-/releases"><img src="https://img.shields.io/github/downloads/therealsgmmaaa/Game-Server-Checker-/total?style=for-the-badge&color=blue&logo=github&label=Total%20Downloads" alt="Total Downloads"></a>
+  <img src="https://img.shields.io/github/stars/therealsgmmaaa/Game-Server-Checker-?style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars">
 </p>
 
 ---
@@ -24,6 +24,12 @@
 ---
 
 ## 📥 Downloads & Releases
+
+<p align="center">
+  <a href="https://github.com/therealsgmmaaa/Game-Server-Checker-/releases">
+    <img src="https://img.shields.io/badge/GitHub-Releases_Page-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Releases Page">
+  </a>
+</p>
 
 You can download and install the tool directly using the following options:
 
