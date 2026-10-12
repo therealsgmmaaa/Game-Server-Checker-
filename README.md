@@ -33,6 +33,6 @@
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone [https://github.com/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector.git](https://github.com/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector.git)
+git clone [https://github.com/therealsgmmaaa/Game-Server-Checker-/releases/tag/Downlaods.git](https://github.com/therealsgmmaaa/GoldSrc-CS-1.6-Server-Info-Detector.git)
 cd GoldSrc-CS-1.6-Server-Info-Detector
-python server_query.py
+python Game-Server-Checker.py
